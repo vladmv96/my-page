@@ -1,0 +1,109 @@
+.circle {
+  cursor: pointer;
+  position: absolute;
+  border-radius: 50%;
+  overflow: hidden;
+  background-position: center center !important;
+  background-size: cover !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: top 0.5s, left 0.5s, width 0.5s, height 0.5s, visibility 0.5s;
+}
+
+#js {
+  background: url('../images/js.png');
+}
+
+#mk {
+  background: url('../images/mk.png');
+}
+
+#programming {
+  background: url('../images/html.jpg');
+}
+
+#webpack {
+  background: url('../images/webpack.png');
+}
+
+#sass {
+  background: url('../images/sass.jpg');
+}
+
+#github {
+  background: url('../images/github.png');
+}
+
+#react {
+  background: url('../images/react.png');
+}
+
+#redux {
+  background: url('../images/redux.png');
+}
+
+#es6 {
+  background: url('../images/es6.jpeg');
+}
+
+#vue {
+  background: url('../images/vue.png');
+}
+
+#telegram {
+  background: url('../images/telegram.png');
+}
+
+#instagram {
+  background: url('../images/instagram.png');
+}
+
+/* #programming {
+  background: url('../images/programming.jpg');
+} */
+
+#youtube {
+  background: url('../images/youtube.png');
+}
+
+#avatar {
+  background: url('../images/avatar.jpg');
+}
+
+#plus {
+  background: url('../images/plus.png');
+}
+
+#projects{
+  background: url('../images/projects.png');
+}
+
+#notes {
+  background: url('../images/notes.png');
+}
+
+.circle-1 {
+  width: 300px;
+  height: 300px;
+}
+
+.circle-3 {
+  width: 120px;
+  height: 120px;
+  visibility: hidden;
+}
+
+.circle:hover {
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.circle-2:hover {
+  width: 180px !important;
+  height: 180px !important;
+}
+
+.hovered:hover {
+  width: 120px !important;
+  height: 120px !important;
+}

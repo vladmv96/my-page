@@ -1,0 +1,39 @@
+{
+    "avatar": {
+        "url":  "./images/avatar.jpg",
+        "id": "avatar",
+        "name": "Аватар"
+    },
+  "circle-2":[
+    {
+        "url":  "../images/js.png",
+        "id": "js",
+        "name": "JavaScript"
+    },
+    {
+        "url":  "../images/html.jpg",
+        "id": "html",
+        "name": "HTML"
+    },
+    {
+        "url":  "../images/github.png",
+        "id": "github",
+        "name": "GitHub"
+    },
+    {
+        "url":  "../images/telegram.png",
+        "id": "telegram",
+        "name": "Telegram"
+    },
+    {
+        "url":  "../images/programming.jpg",
+        "id": "programming",
+        "name": "Программирование"
+    },
+    {
+        "url":  "../images/youtube.png",
+        "id": "youtube",
+        "name": "YouTube"
+    }
+  ]
+}
