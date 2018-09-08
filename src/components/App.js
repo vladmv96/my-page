@@ -120,7 +120,7 @@ class App extends Component {
         <div id="sass" className="circle circle-3 circle-programming" />
 
         <a
-          href="https://notes-vladmv.herokuapp.com/"
+          href="https://vladmv96.github.io/notes/"
           target="_blank"
           rel="noopener noreferrer"
         >
